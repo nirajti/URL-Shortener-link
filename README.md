@@ -7,5 +7,5 @@ In this tutorial   I am gonna showing to you how to code a url shortner with api
 Here we have project screenshot :
 
 ![screenshot]
-(https://user-images.githubusercontent.com/C:\Users\Niraj Tiwari\Downloads\screenshot.png.jpg)
-C:\Users\Niraj Tiwari\Downloads\screenshot.png.jpg
+(https://user-images.githubusercontent.com/screenshot.png)
+

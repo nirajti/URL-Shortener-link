@@ -8,7 +8,6 @@ In this tutorial   I am gonna showing to you how to code a url shortner with api
 # Screenshot
 Here we have project screenshot :
 
-![screenshot] (screenshort.png)
-
+![screenshot](screenshot.png)
 
 
